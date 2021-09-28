@@ -23,3 +23,10 @@ source venv/bin/activate
 
 ## Installing Python dependencies
 pip install -r requirements.txt
+
+## Installing setup
+
+### Create link to local directory in virtual environment
+pip install -e . 
+
+pip install -r requirements_dev.txt

@@ -1,5 +1,7 @@
 # pytest-automation
 
+!Test[https://github.com/chandramgc/pytest-automation/actions/workflows/tests.yml/badge.svg]
+
 ## Install python
 sudo apt install python3.8
 
